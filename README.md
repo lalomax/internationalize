@@ -28,7 +28,7 @@
   </a>
   -->
 
-  <h3 align="center">Feedback App</h3>
+  <h3 align="center">Internationalization</h3>
 
 </div>
 
@@ -113,7 +113,7 @@ If it is not installed, [download](https://nodejs.org/en) and install it.
    ```
 1. Open directory
    ```sh
-   cd feedback-app
+   cd internationalize
    ```
    
 3. Install NPM packages
@@ -169,7 +169,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [https://x.com/OrlandoFloresH](https://x.com/OrlandoFloresH) - createc.bo@gmail.com
 
-Project Link: [https://github.com/lalomax/feedback-app](https://github.com/lalomax/feedback-app)
+Project Link: [https://github.com/lalomax/internationalize](https://github.com/lalomax/internationalize)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
